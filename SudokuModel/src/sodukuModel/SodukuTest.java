@@ -31,11 +31,6 @@ class SodukuTest {
 	 */
 	@AfterEach
 	void tearDown() throws Exception {
-<<<<<<< HEAD
-		matrix=null;
-=======
-		matrix = null;
->>>>>>> branch 'master' of https://github.com/SniperTobbe/Sudoku.git
 	}
 
 	@Test
