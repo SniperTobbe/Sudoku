@@ -17,7 +17,7 @@ import org.junit.jupiter.api.Test;
  */
 class SodukuTest {
 	private int[][] matrix;
-	
+
 	/**
 	 * @throws java.lang.Exception
 	 */
