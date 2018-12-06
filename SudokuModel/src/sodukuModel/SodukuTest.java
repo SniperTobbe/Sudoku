@@ -31,6 +31,7 @@ class SodukuTest {
 	 */
 	@AfterEach
 	void tearDown() throws Exception {
+		matrix = null;
 	}
 
 	@Test
