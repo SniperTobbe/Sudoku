@@ -10,12 +10,12 @@ public class SudokuModel {
 		
 	}
 	
-	public boolean hasNext(int i, int j) {
-		if(true) {
-			
-		}
-		return true;
-	}
+//	public boolean hasNext(int i, int j) {
+//		if(true) {
+//			
+//		}
+//		return true;
+//	}
 	
 	public int getValue(int i, int j) {
 		return matrix[i][j];
