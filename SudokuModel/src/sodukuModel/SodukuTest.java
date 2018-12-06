@@ -16,7 +16,7 @@ import org.junit.jupiter.api.Test;
  *
  */
 class SodukuTest {
-
+// Tobbe rules!
 	/**
 	 * @throws java.lang.Exception
 	 */
