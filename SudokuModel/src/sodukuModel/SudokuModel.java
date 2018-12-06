@@ -7,7 +7,7 @@ public class SudokuModel {
 	
 	public SudokuModel() {
 		matrix=new int[9][9];
-		
+//		tobbe rules
 	}
 	
 //	public boolean hasNext(int i, int j) {
