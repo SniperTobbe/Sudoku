@@ -7,16 +7,8 @@ public class SudokuModel {
 	
 	public SudokuModel() {
 		matrix=new int[9][9];
-//		tobbe rules
-//		berra äger
 	}
-	
-//	public boolean hasNext(int i, int j) {
-//		if(true) {
-//			
-//		}
-//		return true;
-//	}
+
 	
 	public int getValue(int i, int j) {
 		return matrix[i][j];
