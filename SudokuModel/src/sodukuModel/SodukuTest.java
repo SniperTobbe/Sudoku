@@ -16,23 +16,20 @@ import org.junit.jupiter.api.Test;
  *
  */
 class SodukuTest {
-	private SodukoModel() matrix;
 
 	/**
 	 * @throws java.lang.Exception
 	 */
 	@BeforeEach
 	void setUp() throws Exception {
-		matrix = new int[9][9];
-	}
+			}
 
 	/**
 	 * @throws java.lang.Exception
 	 */
 	@AfterEach
 	void tearDown() throws Exception {
-		matrix = null;
-	}
+			}
 
 	@Test
 	void test() {
