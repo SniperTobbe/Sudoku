@@ -16,26 +16,14 @@ import org.junit.jupiter.api.Test;
  *
  */
 class SodukuTest {
-// Tobbe rules!
-	/**
-	 * @throws java.lang.Exception
-	 */
-	@BeforeAll
-	static void setUpBeforeClass() throws Exception {
-	}
-
-	/**
-	 * @throws java.lang.Exception
-	 */
-	@AfterAll
-	static void tearDownAfterClass() throws Exception {
-	}
+	private int[][] matrix;
 
 	/**
 	 * @throws java.lang.Exception
 	 */
 	@BeforeEach
 	void setUp() throws Exception {
+		matrix = new int[9][9];
 	}
 
 	/**
